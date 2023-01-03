@@ -1,0 +1,44 @@
+ingredients:
+  - name: Pâte feuilletée
+    provider: Carrefour
+    ean13: 3154230600183
+  - name: Lait
+    provider: Carrefour
+    ean13: 3560070437405
+    amount: 1
+    unit: l
+  - name: Crème liquide
+    provider: Carrefour
+    ean13: 3451790988042
+    amount: 60
+    unit: cl
+  - name: Gousse de vanille
+    provider: Carrefour
+    ean13: 3162050006115
+  - name: Jaune d'oeuf
+    provider: Carrefour
+    ean13: 3251320020637
+    amount: 3
+  - name: Blanc d'oeuf
+    provider: Carrefour
+    ean13: 3251320020637
+    amount: 3
+  - name: Oeuf
+    provider: Carrefour
+    ean13: 3251320020637
+    amount: 6
+  - name: Sucre en poudre
+    provider: Carrefour
+    ean13: 3560070339617
+    amount: 1
+    unit: kg
+  - name: Fécule de maïs
+    provider: Carrefour
+    ean13: 8712100338694
+    amount: 400
+    unit: g
+  - name: Beurre doux
+    provider: Carrefour
+    ean13: 3560071263508
+    amount: 250
+    unit: g

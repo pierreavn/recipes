@@ -1,0 +1,53 @@
+name: Flan patissier
+category: Dessert
+type: Français
+difficulty: Easy
+pictures:
+  - https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/202347/Flan_pâtissier_1.JPG
+durations:
+  preparation: 20m
+  baking: 40m
+  rest: 60m
+yields:
+  - amount: 1
+    unit_singular: flan
+    unit_plural: flans
+ingredients:
+  - name: Pâte feuilletée
+    amount: 1
+  - name: Lait
+    amount: 75
+    unit: cl
+  - name: Crème liquide
+    amount: 20
+    unit: cl
+    processing: entière
+  - name: Gousse de vanille
+    amount: 1
+  - name: Jaune d'oeuf
+    amount: 4
+  - name: Oeuf
+    amount: 1
+  - name: Sucre en poudre
+    amount: 120
+    unit: g
+  - name: Fécule de maïs
+    amount: 80
+    unit: g
+  - name: Beurre doux
+    amount: 20
+    unit: g
+steps:
+  - Faire chauffer le {Lait}, la {crème|Crème liquide} et la {Gousse de vanille} dans la casserole, jusqu'à ébullition
+  - Retirer du feu, et laisser infuser la vanille pendant une heure
+  - Dans un récipient, fouetter les {jaunes d'oeuf|Jaune d'oeuf}, l'{Oeuf} et le {sucre|Sucre en poudre}
+  - Ajouter la {Fécule de maïs}
+  - Délayer petit à petit avec le lait vanillé, ayant retiré les gousses
+  - Replacer le tout dans la casserole et faire chauffer à feu moyen jusqu'à ce que la crème épaississe
+  - Retirer du feu, ajouter le {beurre|Beurre doux} en petit morceaux
+  - Laisser refroidir complètement
+  - Préchauffer le four à [preheat:180c]
+  - Étaler la pâte dans un moule, et remplir avec la crème patissière
+  - Enfourner pendant [bake:180c:40m]
+references:
+  - https://www.iletaitunefoislapatisserie.com/2015/09/flan-patissier.html
