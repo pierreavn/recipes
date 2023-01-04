@@ -1,0 +1,26 @@
+name: Compote de pommes
+category: Dessert
+type: Français
+difficulty: Facile
+pictures:
+  - https://www.papillesetpupilles.fr/wp-content/uploads/2019/01/Compote-de-pommes-au-jus-dorange-et-vanille.jpg
+durations:
+  preparation: 15m
+  baking: 30m
+yields:
+  amount: 1
+  unit: kg de compote
+  unit_plural: kg de compote
+ingredients:
+  - name: Pomme Chanteclerc
+    amount: 4
+  - name: Pomme Reinette grise du Canada
+    amount: 4
+  - name: Cannelle en poudre
+  - name: Eau
+    amount: 10
+    unit: tablespoon
+steps:
+  - Peler et couper en huitièmes les pommes, en enlevant le trognon et les pépins
+  - Faire cuire à feu moyen avec l'{Eau} pendant 25-30 minutes
+  - À mi-cuisson, saoupoudrer de cannelle
