@@ -3,7 +3,7 @@ recipes:
     name: Flan patissier
     category: Dessert
     type: Français
-    difficulty: Easy
+    difficulty: Facile
     pictures:
       - https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/202347/Flan_pâtissier_1.JPG
     durations:
@@ -23,7 +23,7 @@ recipes:
   deserts/sablés.yml:
     name: Sablés
     category: Dessert
-    difficulty: Easy
+    difficulty: Facile
     pictures:
       - https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
     durations:
