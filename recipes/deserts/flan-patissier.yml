@@ -46,8 +46,8 @@ steps:
   - Replacer le tout dans la casserole et faire chauffer à feu moyen jusqu'à ce que la crème épaississe
   - Retirer du feu, ajouter le {beurre|Beurre doux} en petit morceaux
   - Laisser refroidir complètement
-  - Préchauffer le four à [preheat:180c]
+  - Préchauffer le four à [preheat:180:c]
   - Étaler la pâte dans un moule, et remplir avec la crème patissière
-  - Enfourner pendant [bake:180c:40m]
+  - Enfourner pendant 40 minutes
 references:
   - https://www.iletaitunefoislapatisserie.com/2015/09/flan-patissier.html
