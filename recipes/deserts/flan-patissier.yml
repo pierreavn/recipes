@@ -47,7 +47,7 @@ steps:
   - Replacer le tout dans la casserole et faire chauffer à feu moyen jusqu'à ce que la crème épaississe
   - Retirer du feu, ajouter le {beurre|Beurre doux} en petit morceaux
   - Laisser refroidir complètement
-  - Préchauffer le four à [preheat:180:c]
+  - Préchauffer le four à [preheat:180c]
   - Étaler la pâte dans un moule, et remplir avec la crème patissière
   - Enfourner pendant 40 minutes
 references:
