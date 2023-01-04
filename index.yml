@@ -1,0 +1,22 @@
+recipes:
+  deserts/flan-patissier.yml:
+    name: Flan patissier
+    category: Dessert
+    type: Français
+    difficulty: Easy
+    pictures:
+      - https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_488,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/202347/Flan_pâtissier_1.JPG
+    durations:
+      preparation: 20m
+      baking: 40m
+      rest: 60m
+    ingredients:
+      - Pâte feuilletée
+      - Lait
+      - Crème liquide
+      - Gousse de vanille
+      - Jaune d'oeuf
+      - Oeuf
+      - Sucre en poudre
+      - Fécule de maïs
+      - Beurre doux
