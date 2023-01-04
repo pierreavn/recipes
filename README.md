@@ -26,5 +26,5 @@
 - [preheat:temperature]
 - [bake:temperature:duration]
 
-## Providers
+## Stores
 - Carrefour
