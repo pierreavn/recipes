@@ -1,0 +1,44 @@
+name: Sablés
+category: Dessert
+difficulty: Easy
+pictures:
+  - https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
+durations:
+  preparation: 20m
+  baking: 15m
+  rest: 1h
+yields:
+  amount: 40
+  unit: sablé
+  unit_plural: sablés
+ingredients:
+  - name: Farine
+    amount: 200
+    unit: g
+  - name: Oeuf
+    amount: 1
+  - name: Beurre doux
+    amount: 100
+    unit: g
+  - name: Sucre en poudre
+    amount: 100
+    unit: g
+  - name: Quatre-épices
+    amount: 1
+    unit: tablespoon
+  - name: Sucre vanillé
+    amount: 1
+    unit: sachet
+  - name: Sel
+    amount: 1
+    unit: pinch
+steps:
+  - Mélanger la {Farine}, le {sucre|Sucre en poudre}, le {Sucre vanillé}, le {Sel} et le {Quatre-épices}
+  - Ajouter le {beurre froid|Beurre doux} coupé en petits morceaux et travailler l'ensemble du bout des doigts jusqu'à obtention d'une poudre fine
+  - Incorporer l'{Oeuf} et mélanger pour obtenir une pâte homogène
+  - La rassembler en boule et la réserver pendant 1 heure au réfrigérateur (couvrir avec un torchon)
+  - Préchauffer le four à [preheat:160c]
+  - Abaisser et découper la pâte à l'emporte-pièce, sur un papier sulfurisé. Attention à ne pas les faire trop fins pour ne pas trop sécher
+  - Faire cuire 10 à 15 minutes
+references:
+  - https://www.papillesetpupilles.fr/2014/12/sables-de-noel.html/
