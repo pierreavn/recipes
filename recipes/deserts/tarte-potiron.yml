@@ -1,0 +1,43 @@
+name: Tarte au potiron
+category: Dessert
+type: Français
+difficulty: Moyen
+pictures:
+  - https://odelices.ouest-france.fr/images/recettes/pumpkin-pie-tarte-sucree-au-potimarron.jpg
+durations:
+  preparation: 20m
+  baking: 1h30
+yields:
+  amount: 1
+  unit: tarte
+  unit_plural: tartes
+ingredients:
+  - name: Pâte feuilletée
+    amount: 1
+  - name: Potiron
+    amount: 1.4
+    unit: kg
+  - name: Beurre doux
+    amount: 20
+    unit: g
+  - name: Sucre en poudre
+    amount: 150
+    unit: g
+  - name: Gousse de vanille
+    amount: 1
+  - name: Oeuf
+    amount: 2
+  - name: Crème fraiche
+    amount: 2
+    unit: tablespoon
+  - name: Poudre d'amande
+    amount: 100
+    unit: g
+steps:
+  - Préchauffer le four à [preheat:180c]
+  - Couper en dés et faire suer le {Potiron} dans le {beurre|Beurre doux}, le {sucre|Sucre en poudre} et la {vanille|Gousse de vanille}, jusqu'à ce qu'il soit bien tendre
+  - Réduire le tout en purée
+  - Battre les {oeufs|Oeuf} avec la {Crème fraiche} et la {Poudre d'amande}
+  - Ajouter la purée de potiron
+  - Garnir la {Pâte feuilletée}
+  - Enfourner pendant 40 minutes
