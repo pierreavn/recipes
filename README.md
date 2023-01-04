@@ -1,10 +1,5 @@
 # Recipes
 
-## Difficulties
-- Easy
-- Medium
-- Hard
-
 ## Ingredients Units
 - l
 - dl
@@ -21,6 +16,7 @@
 - s
 - m
 - h
+- d
 
 ## Action Tags
 - [preheat:temperature]
