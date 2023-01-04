@@ -1,0 +1,38 @@
+name: Mi-cuit au chocolat
+category: Dessert
+type: Français
+difficulty: Facile
+pictures:
+  - https://assets.afcdn.com/recipe/20200831/113620_w2000h1333c1cx1142cy836cxb2121cyb1414.webp
+durations:
+  preparation: 15m
+  baking: 15m
+yields:
+  amount: 4
+  unit: mi-cuit
+  unit_plural: mi-cuits
+ingredients:
+  - name: Chocolat noir pâtissier
+    amount: 100
+    unit: g
+  - name: Sucre en poudre
+    amount: 120
+    unit: g
+  - name: Beurre doux
+    amount: 90
+    unit: g
+  - name: Farine
+    amount: 40
+    unit: g
+  - name: Oeuf
+    amount: 3
+  - name: Sucre glace
+steps:
+  - Préchauffer le four à [preheat:200c]
+  - Faire fondre le {chocolat|Chocolat noir pâtissier} et le {beurre|Beurre doux}
+  - Blanchir les {Oeuf} avec le {sucre|Sucre en poudre}
+  - Ajouter le mélange chocolat-beurre
+  - Incorporer la {Farine}
+  - Beurrer le moule et verser la préparation
+  - Enfourner moins de 15 minutes
+  - Saoupoudrer de sucre glace après quelques minutes
