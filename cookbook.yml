@@ -20,3 +20,21 @@ recipes:
       - Sucre en poudre
       - Fécule de maïs
       - Beurre doux
+  deserts/sablés.yml:
+    name: Sablés
+    category: Dessert
+    difficulty: Easy
+    pictures:
+      - https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
+    durations:
+      preparation: 20m
+      baking: 15m
+      rest: 1h
+    ingredients:
+      - Farine
+      - Oeuf
+      - Beurre doux
+      - Sucre en poudre
+      - Quatre-épices
+      - Sucre vanillé
+      - Sel
