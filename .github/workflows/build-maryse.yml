@@ -9,5 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: pierreavn/maryse-action@main
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Build Maryse
+        uses: pierreavn/maryse-action@main
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update cookbook.yml
