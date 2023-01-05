@@ -1,0 +1,12 @@
+name: Build Maryse
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pierreavn/maryse-action@main
