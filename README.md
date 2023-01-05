@@ -18,7 +18,7 @@
 - h
 - d
 
-## Action Tags
+## Gizmos
 - [preheat:temperature]
 - [bake:temperature:duration]
 
