@@ -1,11 +1,30 @@
 recipes:
+  deserts/compote-pommes.yml:
+    name: Compote de pommes
+    category: Dessert
+    type: Français
+    difficulty: Facile
+    pictures:
+      - >-
+        https://www.papillesetpupilles.fr/wp-content/uploads/2019/01/Compote-de-pommes-au-jus-dorange-et-vanille.jpg
+    durations:
+      preparation: 15m
+      baking: 30m
+    ingredients:
+      - Pomme Chanteclerc
+      - Pomme Reinette grise du Canada
+      - Cannelle en poudre
+      - Eau
   deserts/flan-patissier.yml:
     name: Flan patissier
     category: Dessert
     type: Français
     difficulty: Facile
     pictures:
-      - https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/202347/Flan_pâtissier_1.JPG
+      - >-
+        https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/202347/Flan_p%C3%A2tissier_1.JPG
+      - >-
+        https://static.750g.com/images/640-420/f57c039ecba821d68e28b68d20a91d78/flan-patissier.jpg
     durations:
       preparation: 20m
       baking: 40m
@@ -20,12 +39,31 @@ recipes:
       - Sucre en poudre
       - Fécule de maïs
       - Beurre doux
+  deserts/mi-cuit-chocolat.yml:
+    name: Mi-cuit au chocolat
+    category: Dessert
+    type: Français
+    difficulty: Facile
+    pictures:
+      - >-
+        https://assets.afcdn.com/recipe/20200831/113620_w2000h1333c1cx1142cy836cxb2121cyb1414.webp
+    durations:
+      preparation: 15m
+      baking: 15m
+    ingredients:
+      - Chocolat noir pâtissier
+      - Sucre en poudre
+      - Beurre doux
+      - Farine
+      - Oeuf
+      - Sucre glace
   deserts/sablés.yml:
     name: Sablés
     category: Dessert
     difficulty: Facile
     pictures:
-      - https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
+      - >-
+        https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
     durations:
       preparation: 20m
       baking: 15m
@@ -38,3 +76,23 @@ recipes:
       - Quatre-épices
       - Sucre vanillé
       - Sel
+  deserts/tarte-potiron.yml:
+    name: Tarte au potiron
+    category: Dessert
+    type: Français
+    difficulty: Moyen
+    pictures:
+      - >-
+        https://odelices.ouest-france.fr/images/recettes/pumpkin-pie-tarte-sucree-au-potimarron.jpg
+    durations:
+      preparation: 20m
+      baking: 1h30
+    ingredients:
+      - Pâte feuilletée
+      - Potiron
+      - Beurre doux
+      - Sucre en poudre
+      - Gousse de vanille
+      - Oeuf
+      - Crème fraiche
+      - Poudre d'amande
