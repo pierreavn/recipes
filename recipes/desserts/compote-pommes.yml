@@ -19,7 +19,7 @@ ingredients:
   - name: Cannelle en poudre
   - name: Eau
     amount: 10
-    unit: tablespoon
+    unit: cl
 steps:
   - Peler et couper en huitièmes les pommes, en enlevant le trognon et les pépins
   - Faire cuire à feu moyen avec l'{Eau} pendant 25-30 minutes

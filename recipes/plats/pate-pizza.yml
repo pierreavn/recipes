@@ -1,0 +1,37 @@
+name: Pâte à Pizza
+category: Plat
+type: Français
+difficulty: Moyen
+pictures:
+  - https://cdn.pratico-pratiques.com/app/uploads/sites/4/2018/08/30183059/pizza-maison-toute-garnie.jpeg
+durations:
+  preparation: 20m
+  rest: 2h
+yields:
+  amount: 2
+  unit: pizza individuelle
+  unit_plural: pizzas individuelles
+ingredients:
+  - name: Farine T45
+    amount: 400
+    unit: g
+  - name: Eau
+    amount: 25
+    unit: cl
+  - name: Huile d'olive
+    amount: 3
+    unit: tablespoon
+  - name: Levure boulangère déshydratée
+    amount: 1
+    unit: sachet
+  - name: Sel
+    amount: 1
+    unit: teaspoon
+steps:
+  - Dissoudre la {levure|Levure boulangère déshydratée} dans l'{Eau} tiède
+  - Mélanger tous les ingrédients et pétrir jusqu’à ce que la pâte se détache du saladier
+  - Légèrement fariner le pâton pour éviter qu’il sèche
+  - Laisser reposer le pâton avec un torchon légèrement humide (1h30-2h à température ambiante —> mieux, ou 1h près d’une source de chaleur), il faut environ qu’il double de volume
+references:
+  - https://www.papillesetpupilles.fr/2018/04/pate-a-pizza-epaisse-et-moelleuse.html/
+  - https://www.undejeunerdesoleil.com/2012/10/la-pate-pizza-du-pizzaiolo-2-recettes-4_17.html

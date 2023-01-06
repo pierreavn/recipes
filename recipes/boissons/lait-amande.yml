@@ -1,0 +1,27 @@
+name: Lait d'amande
+category: Boisson
+type: Français
+difficulty: Facile
+pictures:
+  - https://resize.elle.fr/portrait_webp/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/lait-d-amande-2038802/13240163-10-fre-FR/Lait-d-amande-maison.jpg
+durations:
+  preparation: 20m
+  rest: 12h
+yields:
+  amount: 1
+  unit: L de lait d'amande
+  unit_plural: L de lait d'amande
+ingredients:
+  - name: Amandes décortiquées
+    amount: 160
+    unit: g
+  - name: Eau
+    amount: 90
+    unit: cl
+steps:
+  - Faire tremper les {amandes}[Amandes décortiquées] dans de l’eau toute une nuit, afin de les faire germer et que le lait soit plus crémeux
+  - Rincer et égoutter les amandes
+  - Ajouter au blender les amandes et l’{Eau}, puis mixer à vitesse maximale pendant 1 à 2 minutes
+  - Filtrer le mélange avec un tissu pour récupérer le lait d’amande dans une bouteille en verre
+  - Si besoin, parfumer avec de la vanille, du miel, de la fleur d’oranger, etc…
+  - Conserver l’okara (purée d’amande) pour une autre recette
