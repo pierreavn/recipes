@@ -1,5 +1,19 @@
 recipes:
-  deserts/compote-pommes.yml:
+  boissons/lait-amande.yml:
+    name: Lait d'amande
+    category: Boisson
+    type: Français
+    difficulty: Facile
+    pictures:
+      - >-
+        https://resize.elle.fr/portrait_webp/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/lait-d-amande-2038802/13240163-10-fre-FR/Lait-d-amande-maison.jpg
+    durations:
+      preparation: 20m
+      rest: 12h
+    ingredients:
+      - Amandes décortiquées
+      - Eau
+  desserts/compote-pommes.yml:
     name: Compote de pommes
     category: Dessert
     type: Français
@@ -15,7 +29,7 @@ recipes:
       - Pomme Reinette grise du Canada
       - Cannelle en poudre
       - Eau
-  deserts/flan-patissier.yml:
+  desserts/flan-patissier.yml:
     name: Flan patissier
     category: Dessert
     type: Français
@@ -39,7 +53,7 @@ recipes:
       - Sucre en poudre
       - Fécule de maïs
       - Beurre doux
-  deserts/mi-cuit-chocolat.yml:
+  desserts/mi-cuit-chocolat.yml:
     name: Mi-cuit au chocolat
     category: Dessert
     type: Français
@@ -57,7 +71,7 @@ recipes:
       - Farine
       - Oeuf
       - Sucre glace
-  deserts/sablés.yml:
+  desserts/sablés.yml:
     name: Sablés
     category: Dessert
     difficulty: Facile
@@ -76,7 +90,7 @@ recipes:
       - Quatre-épices
       - Sucre vanillé
       - Sel
-  deserts/tarte-potiron.yml:
+  desserts/tarte-potiron.yml:
     name: Tarte au potiron
     category: Dessert
     type: Français
@@ -96,3 +110,20 @@ recipes:
       - Oeuf
       - Crème fraiche
       - Poudre d'amande
+  plats/pate-pizza.yml:
+    name: Pâte à Pizza
+    category: Plat
+    type: Français
+    difficulty: Moyen
+    pictures:
+      - >-
+        https://cdn.pratico-pratiques.com/app/uploads/sites/4/2018/08/30183059/pizza-maison-toute-garnie.jpeg
+    durations:
+      preparation: 20m
+      rest: 2h
+    ingredients:
+      - Farine T45
+      - Eau
+      - Huile d'olive
+      - Levure boulangère déshydratée
+      - Sel
