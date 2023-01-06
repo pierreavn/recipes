@@ -23,7 +23,7 @@ ingredients:
     amount: 90
     unit: cl
 steps:
-  - Faire tremper les [amandes|Amandes décortiquées] dans de l’eau toute une nuit, afin de les faire germer et que le lait soit plus crémeux
+  - Faire tremper les {amandes|Amandes décortiquées} dans de l’eau toute une nuit, afin de les faire germer et que le lait soit plus crémeux
   - Rincer et égoutter les amandes
   - Ajouter au blender les amandes et l’{Eau}, puis mixer à vitesse maximale pendant 1 à 2 minutes
   - Filtrer le mélange avec un tissu pour récupérer le lait d’amande dans une bouteille en verre
