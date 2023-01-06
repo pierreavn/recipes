@@ -53,6 +53,24 @@ recipes:
       - Sucre en poudre
       - Fécule de maïs
       - Beurre doux
+  desserts/gaufres.yml:
+    name: Gaufres
+    category: Dessert
+    type: Français
+    difficulty: Facile
+    pictures:
+      - https://yummix.fr/wp-content/uploads/2020/02/gaufres-foire.jpg
+    durations:
+      preparation: 20m
+      baking: 20m
+      rest: 30m
+    ingredients:
+      - Farine
+      - Oeuf
+      - Lait
+      - Levure chimique
+      - Sucre vanillé
+      - Sel
   desserts/mi-cuit-chocolat.yml:
     name: Mi-cuit au chocolat
     category: Dessert
