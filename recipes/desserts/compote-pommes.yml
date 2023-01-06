@@ -11,6 +11,8 @@ yields:
   amount: 1
   unit: kg de compote
   unit_plural: kg de compote
+notes: |
+  2.9kg de pommes = 2.1kg de compote
 ingredients:
   - name: Pomme Chanteclerc
     amount: 4

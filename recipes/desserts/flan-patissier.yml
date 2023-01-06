@@ -13,6 +13,8 @@ yields:
   amount: 1
   unit: flan
   unit_plural: flans
+notes: |
+  **Pour la prochaine fois, réduire la quantité de matières grasses**
 ingredients:
   - name: Pâte feuilletée
     amount: 1

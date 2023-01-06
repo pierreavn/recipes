@@ -1,0 +1,38 @@
+name: Gaufres
+category: Dessert
+type: Français
+difficulty: Facile
+pictures:
+  - https://yummix.fr/wp-content/uploads/2020/02/gaufres-foire.jpg
+durations:
+  preparation: 20m
+  baking: 20m
+  rest: 30m
+yields:
+  amount: 5
+  unit: gaufre
+  unit_plural: gaufres
+ingredients:
+  - name: Farine
+    amount: 120
+    unit: g
+  - name: Oeuf
+    amount: 3
+  - name: Lait
+    amount: 150
+    unit: ml
+  - name: Levure chimique
+    amount: 1
+    unit: sachet
+  - name: Sucre vanillé
+    amount: 1
+    unit: sachet
+  - name: Sel
+    amount: 1
+    unit: pinch
+steps:
+  - Mélanger la {Farine}, la {levure|Levure chimique}, le {Sucre vanillé} et le {Sel}
+  - Séparer les blancs d'{Oeuf} dans un bol à part, et ajouter les jaunes à la préparation
+  - Laisser reposer la pâte 30 minutes
+  - Battre les blancs en neige, et les ajouter à la préparation
+  - Beurrer le gaufrier, et faire cuire les gaufres
