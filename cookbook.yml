@@ -89,25 +89,6 @@ recipes:
       - Farine
       - Oeuf
       - Sucre glace
-  desserts/sablés.yml:
-    name: Sablés
-    category: Dessert
-    difficulty: Facile
-    pictures:
-      - >-
-        https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
-    durations:
-      preparation: 20m
-      baking: 15m
-      rest: 1h
-    ingredients:
-      - Farine
-      - Oeuf
-      - Beurre doux
-      - Sucre en poudre
-      - Quatre-épices
-      - Sucre vanillé
-      - Sel
   desserts/tarte-potiron.yml:
     name: Tarte au potiron
     category: Dessert
@@ -128,6 +109,25 @@ recipes:
       - Oeuf
       - Crème fraiche
       - Poudre d'amande
+  desserts/sablés.yml:
+    name: Sablés
+    category: Dessert
+    difficulty: Facile
+    pictures:
+      - >-
+        https://www.papillesetpupilles.fr/wp-content/uploads/2014/12/Sable%CC%81s-de-Noe%CC%88l.jpg
+    durations:
+      preparation: 20m
+      baking: 15m
+      rest: 1h
+    ingredients:
+      - Farine
+      - Oeuf
+      - Beurre doux
+      - Sucre en poudre
+      - Quatre-épices
+      - Sucre vanillé
+      - Sel
   plats/pate-pizza.yml:
     name: Pâte à Pizza
     category: Plat
