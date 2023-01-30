@@ -13,7 +13,7 @@ yields:
   unit: personne
   unit_plural: personnes
 ingredients:
-  - name: Patate douce cuite
+  - name: Patates douce cuites
     amount: 500
     unit: g
   - name: Maïzena
@@ -33,11 +33,11 @@ ingredients:
     amount: 1
     unit: teaspoon
 steps:
-  - Peler, couper et faire cuire les {Patates douces} dans l'eau pendant 20 à 25 minutes
+  - Peler, couper et faire cuire les {patates douces|Patates douce cuites} dans l'eau pendant 20 à 25 minutes
   - Une fois cuites, les écraser en purée et laisser refroidir
   - Une fois refroidies, ajouter du sel, du poivre et de la noix de muscade
   - Ajouter la {Maïzena} et la {Farine}, puis mélanger à nouveau
-  - Ajouter de la {Farine} tant que la pâte colle au saladier
+  - Ajouter de la farine tant que la pâte colle au saladier
   - Fariner le plan de travail et réaliser des boudins de pâte d'environ 1 cm de diamètre
   - Couper ces boudins en gnocchi d'environ 1 cm de large
   - À l'aide de l'index, faire rouler le gnocchi sur la fourchette de haut en bas de la partie bombée (au dessus)
@@ -45,8 +45,8 @@ steps:
   - Les égoutter et réserver
   - Peler l'{Oignon}, le ciseler, et le faire revenir dans un peu d'{Huile d'olive}
   - Retirer les tiges des {Feuilles d'épinards}, et ajouter les feuilles dans la poêle
-  - Ajouter un peu de {Sésame} et laisser cuire 5 minutes à feu moyen avec un courvercle
+  - Ajouter un peu de sésame et laisser cuire 5 minutes à feu moyen avec un courvercle
   - Ajouter les gnocchi égouttés, et faire revenir 5 minutes à feu moyen sans couverte
-  - Servir et saoupoudrer de {Parmesan}
+  - Servir et saoupoudrer de parmesan
 references:
   - https://www.cuisineactuelle.fr/recettes/gnocchi-a-la-patate-douce-epinards-sesame-et-parmesan-312062
