@@ -128,6 +128,27 @@ recipes:
       - Oeuf
       - Crème fraiche
       - Poudre d'amande
+  plats/gnocchi-patate-douce.yml:
+    name: Gnocchi de Patate Douce, épinards & parmesan
+    category: Plat
+    type: Français
+    difficulty: Moyen
+    pictures:
+      - >-
+        https://www.cuisineactuelle.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2Fec83b3c1-88fd-4121-9888-ede830b65ce3.2Ejpeg/555x276/quality/80/crop-from/center/gnocchi-a-la-patate-douce-epinards-sesame-et-parmesan.jpeg
+    durations:
+      bake: 30m
+      preparation: 30m
+      rest: 15m
+    ingredients:
+      - Patate douce cuite
+      - Maïzena
+      - Farine
+      - Feuilles d'épinards
+      - Oignon
+      - Parmesan
+      - Sésame
+      - Huile d'olive
   plats/pate-pizza.yml:
     name: Pâte à Pizza
     category: Plat
