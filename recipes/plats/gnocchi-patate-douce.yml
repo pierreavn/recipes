@@ -14,16 +14,16 @@ yields:
   unit_plural: personnes
 ingredients:
   - name: Patates douce cuites
-    amount: 500
+    amount: 300
     unit: g
   - name: Maïzena
-    amount: 120
+    amount: 70
     unit: g
   - name: Farine
-    amount: 120
+    amount: 70
     unit: g
   - name: Feuilles d'épinards
-    amount: 80
+    amount: 60
     unit: g
   - name: Oignon
     amount: 1
