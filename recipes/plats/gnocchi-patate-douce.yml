@@ -1,0 +1,52 @@
+name: Gnocchi de Patate Douce, épinards & parmesan
+category: Plat
+type: Français
+difficulty: Moyen
+pictures:
+  - https://www.cuisineactuelle.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2Fec83b3c1-88fd-4121-9888-ede830b65ce3.2Ejpeg/555x276/quality/80/crop-from/center/gnocchi-a-la-patate-douce-epinards-sesame-et-parmesan.jpeg
+durations:
+  bake: 30m
+  preparation: 30m
+  rest: 15m
+yields:
+  amount: 2
+  unit: personne
+  unit_plural: personnes
+ingredients:
+  - name: Patate douce cuite
+    amount: 500
+    unit: g
+  - name: Maïzena
+    amount: 120
+    unit: g
+  - name: Farine
+    amount: 120
+    unit: g
+  - name: Feuilles d'épinards
+    amount: 80
+    unit: g
+  - name: Oignon
+    amount: 1
+  - name: Parmesan
+  - name: Sésame
+  - name: Huile d'olive
+    amount: 1
+    unit: teaspoon
+steps:
+  - Peler, couper et faire cuire les {Patates douces} dans l'eau pendant 20 à 25 minutes
+  - Une fois cuites, les écraser en purée et laisser refroidir
+  - Une fois refroidies, ajouter du sel, du poivre et de la noix de muscade
+  - Ajouter la {Maïzena} et la {Farine}, puis mélanger à nouveau
+  - Ajouter de la {Farine} tant que la pâte colle au saladier
+  - Fariner le plan de travail et réaliser des boudins de pâte d'environ 1 cm de diamètre
+  - Couper ces boudins en gnocchi d'environ 1 cm de large
+  - À l'aide de l'index, faire rouler le gnocchi sur la fourchette de haut en bas de la partie bombée (au dessus)
+  - Faire cuire les gnocchi dans l'eau bouillante pendant 3-4 minutes jusqu'à ce qu'ils remontent à la surface
+  - Les égoutter et réserver
+  - Peler l'{Oignon}, le ciseler, et le faire revenir dans un peu d'{Huile d'olive}
+  - Retirer les tiges des {Feuilles d'épinards}, et ajouter les feuilles dans la poêle
+  - Ajouter un peu de {Sésame} et laisser cuire 5 minutes à feu moyen avec un courvercle
+  - Ajouter les gnocchi égouttés, et faire revenir 5 minutes à feu moyen sans couverte
+  - Servir et saoupoudrer de {Parmesan}
+references:
+  - https://www.cuisineactuelle.fr/recettes/gnocchi-a-la-patate-douce-epinards-sesame-et-parmesan-312062
